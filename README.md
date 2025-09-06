@@ -1,1 +1,1 @@
-# like-private
+# like-bot
